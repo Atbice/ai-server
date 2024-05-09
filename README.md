@@ -5,9 +5,8 @@ The journey began with our desire to experiment with training larger models. How
 
 ## The Genesis
 Anton proposed constructing a server specifically for model training after he had acquired a used Dell Precision 5600 a few years ago, which was otherwise just collecting dust. The initial plan was straightforward: purchase a used AI card, install it, and start running. This turned out to be easier said than done. Our research into which AI card to buy gave us a good sense of what we wanted.
-![Alt text]("C:\Users\onton\Downloads\41S8fOo3mML.jpg")
+![41S8fOo3mML](https://github.com/Atbice/ai-server/assets/134963203/c0c3119e-557c-493f-a261-253ef6d7500b)
 
-"C:\Users\onton\Downloads\41S8fOo3mML.jpg"
 
 ## Early Challenges
 In the meantime, the plan was to get the server running at Anton's house with an old standard GPU. After much trial and error, we successfully installed Proxmox, enabling remote access. Unfortunately, we then faced a significant challenge: the server was extremely loud! Anton's wife was particularly unhappy with this setup! :D But we're not ones to give up easily.
