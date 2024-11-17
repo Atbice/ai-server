@@ -20,3 +20,6 @@ We thought replacing the power supply unit (PSU) with a quieter one would be a s
 We purchased a new standard PSU that fit perfectly in the larger chassis. However, it quickly became apparent that the PSU cables were not compatible with our server's components due to Dell's proprietary standards. Undeterred, we decided to take matters into our own hands. Armed with wiring schematics we found online, we meticulously mapped out the voltage requirements for each cable. After careful planning and some trial-and-error, we deconstructed the server's original PSU and merged its wiring with the new PSU.
 
 Lo and behold, it didn't work! 
+
+<img src="https://github.com/user-attachments/assets/fd3bf494-9f92-4b45-8d95-955b295c1c5b" alt="Descriptive Image Text" width="300">
+<img src="https://github.com/user-attachments/assets/ceb90d1a-d357-4a45-a96b-4c8c5a1dfd95" alt="Descriptive Image Text" width="300">
