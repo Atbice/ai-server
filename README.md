@@ -16,5 +16,7 @@ We thought replacing the power supply unit (PSU) with a quieter one would be a s
 
 <img src="https://github.com/Atbice/ai-server/assets/134963203/481bee5b-982f-46ae-9a1f-9e1268e20ad8" alt="Descriptive Image Text" width="500">
 
-## Conclusion
-Our story is a testament to innovation, teamwork, and resilience in the face of challenges. Stay tuned as we continue to evolve our AI server setup!
+## Power Supply Struggles
+We purchased a new standard PSU that fit perfectly in the larger chassis. However, it quickly became apparent that the PSU cables were not compatible with our server's components due to Dell's proprietary standards. Undeterred, we decided to take matters into our own hands. Armed with wiring schematics we found online, we meticulously mapped out the voltage requirements for each cable. After careful planning and some trial-and-error, we deconstructed the server's original PSU and merged its wiring with the new PSU.
+
+Lo and behold, it didn't work! 
