@@ -5,6 +5,7 @@ The journey began with our desire to experiment with training larger models. How
 
 ## The Genesis
 Anton proposed building our own server specifically for model training. Anton had acquired a used Dell Precision 5600 a few years ago, which was otherwise just collecting dust. The initial plan was straightforward: purchase a used AI card, install it, and start running. This turned out to be easier said than done. We starded to research which used AI card to buy  and we started to get good sense of what we wanted.
+
 ![41S8fOo3mML](https://github.com/Atbice/ai-server/assets/134963203/c0c3119e-557c-493f-a261-253ef6d7500b)
 
 
@@ -24,6 +25,12 @@ Lo and behold, it didn't work!
 <img src="https://github.com/user-attachments/assets/fd3bf494-9f92-4b45-8d95-955b295c1c5b" alt="Descriptive Image Text" width="300">
 <img src="https://github.com/user-attachments/assets/ceb90d1a-d357-4a45-a96b-4c8c5a1dfd95" alt="Descriptive Image Text" width="300">
 
+## The Chassis Modification
+Our next challenge arose when we tried to mount the server's motherboard in the larger chassis. As luck would have it, none of the screw holes on the new chassis aligned with the motherboard's mounting points. After some brainstorming, we realized there was only one practical solution: modify the chassis itself.
+
+This led to a bit of creative engineering. Using a grinder, we carefully cut out the bottom plate from the original Dell Precision 5600 chassis, which included the mounting points for the motherboard. Once removed, we transferred this plate to the larger chassis, effectively creating a custom mounting solution. It wasn’t the prettiest process, but it was undeniably satisfying to see our DIY approach take shape.
+
+<img src="https://github.com/user-attachments/assets/a1590436-dfd1-4376-b67a-6ff7e0dcf26e" alt="Descriptive Image Text" width="400">
 <img src="https://github.com/user-attachments/assets/634de1b6-4b37-4e1a-a3df-b9e752bceaf8" alt="Descriptive Image Text" width="300">
 
 
