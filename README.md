@@ -3,8 +3,8 @@
 ## Introduction
 The journey began with our desire to experiment with training larger models. However, we quickly realized that such tasks would monopolize our own computers, leaving no room for fun during our freetime. Both of us share a deep interest in hardware and building computers, which led Anton to suggest a creative solution.
 
-## The Genesis
-Anton proposed building our own server specifically for model training. Anton had acquired a used Dell Precision 5600 a few years ago, which was otherwise just collecting dust. The initial plan was straightforward: purchase a used AI card, install it, and start running. This turned out to be easier said than done. We starded to research which used AI card to buy  and we started to get good sense of what we wanted.
+## The Genesis  
+Anton proposed building our own server specifically for model training. Anton had acquired a used Dell Precision 5600 a few years ago, which was otherwise just collecting dust. The initial plan was straightforward: purchase a used AI-tailored GPU, install it, and start running. This turned out to be easier said than done. We started to research which used GPU to buy, and we began to get a good sense of what we wanted. A [Tesla P100](https://www.nvidia.com/en-us/data-center/tesla-p100/) was the most suited for us.
 
 ![41S8fOo3mML](https://github.com/Atbice/ai-server/assets/134963203/c0c3119e-557c-493f-a261-253ef6d7500b)
 
@@ -36,7 +36,7 @@ This led to a bit of creative engineering. Using a grinder, we carefully cut out
 ## Switching to a Server Rack
 After putting significant effort into modifying the larger chassis, we felt optimistic that everything was finally coming together. However, upon booting the system, we hit another major roadblock: the GPU was not being detected. No matter what we tried—reinstalling drivers, re-seating the card, checking the BIOS—the system refused to recognize the GPU. Our best guess was that the motherboard was simply too old to support the newer GPU hardware. Disheartened but determined, we decided to pivot.
 
-The best solution seemed to be investing in a proper server rack. After scouring online listings, we found a used Dell PowerEdge R730 that fit our needs perfectly. It was designed to handle dual GPUs, had robust server-grade components, and was a significant upgrade from our previous setup. Plus, since our GPUs were originally designed for rack-mounted systems, the R730 was a logical choice.
+The best solution seemed to be investing in a proper server rack. After scouring online listings, we found a used [Dell PowerEdge R730](https://i.dell.com/sites/doccontent/shared-content/data-sheets/en/documents/dell-poweredge-r730-spec-sheet.pdf) that fit our needs perfectly. It was designed to handle dual GPUs, had robust server-grade components, and was a significant upgrade from our previous setup. Plus, since our GPUs were originally designed for rack-mounted systems, the R730 was a logical choice.
 
 <img src="https://github.com/user-attachments/assets/84512c6f-af89-40f0-96b2-e5ac99c7ded3" alt="Descriptive Image Text" width="400">
 
