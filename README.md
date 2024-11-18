@@ -10,7 +10,7 @@ Anton proposed building our own server specifically for model training. Anton ha
 
 
 ## Early Challenges
-In the meantime, the plan was to get the server running at Anton's house with just the cpu's to prepare for the AI card to come. After much trial and error, we successfully installed Proxmox, enabling remote access. Unfortunately, we then faced a significant challenge: the server was extremely loud! Anton's wife was particularly unhappy with this setup! :D But we're not ones to give up easily.
+In the meantime, the plan was to get the server running at Anton's house with just the cpu's to prepare for the AI card to come. After much trial and error, we successfully installed Proxmox, enabling remote access. Unfortunately, we then faced a significant challenge: the server was extremely loud! Anton's wife was particularly unhappy with this setup!  But we're not ones to give up easily.
 
 ## Problem-Solving
 We thought replacing the power supply unit (PSU) with a quieter one would be a simple solution. However, we encountered unexpected compatibility issues; servers and home computers use different types of PSUs, and Dell has its own standards, so no off-the-shelf PSU would fit our server chassis. Luckily, Robert had an extra-large chassis left over from a previous computer build, which seemed like the perfect fix to our problem. With determination, Robert transported this bulky behemoth by train and tram to Anton's place.
